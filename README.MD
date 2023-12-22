@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="600" width="1000" src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
+    <img height="450" width="1000" src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
 </p>
 
 <h1 align="center"> Mico Efraim </h1>
