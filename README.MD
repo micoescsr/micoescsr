@@ -17,9 +17,9 @@
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Gmail_icon_(2020).png" height="40cm" align="center" alt="E-mail micoescsr"/>](efraimmicoescosura@gmail.com)
 
 ## 🌐 Used and Known Languages
-<img src="https://github.com/micoescsr/micoescsr/blob/main/c.svg" height="40cm" align="center" alt="C#">
-<img src="https://github.com/micoescsr/micoescsr/blob/main/C%2B%2B-Logo.wine.svg" height="40cm" align="center" alt="C++">
-<img src="https://github.com/micoescsr/micoescsr/blob/main/python.svg" height="40cm" align="center" alt="Python">
+- C#
+- C++
+- Python
 
 ## 📚 Education
 - College (Present)
