@@ -6,7 +6,7 @@
 <h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." <br />- Amy March, Little Women (2019) </h3>
 
 ## 🌴 Welcome
-Hi! I am Mico Efraim D. Escosura, or you can calle me **Mico 😄**. My closest friends calls me ***micoconutt 🥥*** Welcome to my repository. As of now, I am currently working in establishing my skills in web development. I hope you can join me in hoaning my skills and learn new discoveries in the field of web development! 
+Hi! I am Mico Efraim D. Escosura, or you can calle me **Mico 😄**. My closest friends calls me ***micoconutt 🥥*** Welcome to my repository! As of now, I am currently working in establishing my skills in web development. I hope you can join me in hoaning my skills and learn new discoveries in the field of web development! 
 
 ## 👀 About Me
 - 🥥 Name: Mico Efraim D. Escosura
@@ -16,9 +16,12 @@ Hi! I am Mico Efraim D. Escosura, or you can calle me **Mico 😄**. My closest 
 - 👨🏻‍🎓 Occupation: Student
 
 ## 🌐 Used and Known Languages
-✨ C# 
-✨ C++
-✨ Python
+✨ C#  
+
+✨ C++  
+
+✨ Python  
+
 
 ## 📱 Let's Be Moots
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
