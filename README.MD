@@ -2,9 +2,12 @@
     <img src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
 </p>
 
-<h1 align="center"> Mico Efraim D. Escosura </h1>
-<h2 align="center"> 20 Years Old | Philippines </h2>
+<h1 align="center"> Mico Efraim </h1>
+<h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." - Amy March, Little Women (2019) </h3>
 
 ## About Me
-- 🎓 Currently a 2nd Year taking a Bachelor of Science in Information Technology
-- 🏫 Mapúa Malayan Colleges Laguna
+- Name: Mico Efraim D. Escosura
+- Age: 20 Years Old
+- Location: Philippines
+
+## Hobbies
