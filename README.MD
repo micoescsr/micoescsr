@@ -51,7 +51,7 @@ If you have any inquiries, feel free to send me an e-mail.
         - git init --bare: Create a new bare repository (a repository to be used as a remote repository only, that won't contain active development)
     - Example
 <p align="center">
-    <img src="https://github.com/micoescsr/micoescsr/blob/main/GIT%20INIT.png" alt="git init example">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20init.png" alt="git init example">
 </p>
 
 - git clone [url]
@@ -62,7 +62,7 @@ If you have any inquiries, feel free to send me an e-mail.
         - git clone --mirror: Set up a mirror of the source repository.
     - Example
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20clone.png" alt="git clone example">
 </p>
 
 - git status
@@ -73,7 +73,7 @@ If you have any inquiries, feel free to send me an e-mail.
         - git status -v: Shows more "verbose" detail including the textual changes of any uncommitted files.
     - Example
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20status.png" alt="git status example">
 </p>
 
 - git add [file]
@@ -84,7 +84,7 @@ If you have any inquiries, feel free to send me an e-mail.
         - git add -u / git add --update: Update the index just where it already has an entry matching <pathspec>.
     - Example
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20add.png" alt="git add example">
 </p>
 
 - git commit -m "[descriptive message]"
@@ -95,10 +95,8 @@ If you have any inquiries, feel free to send me an e-mail.
         - git commit -F <file> / git commit --file=<file>: Take the commit message from the given file.
     - Example
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20commit.png" alt="git commit example">
 </p>
 
 - Reference:
     - https://git-scm.com/docs
-
-##
