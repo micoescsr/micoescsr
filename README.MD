@@ -6,6 +6,8 @@
 <h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." <br />- Amy March, Little Women (2019) </h3>
 
 ## 👀 About Me
+
+<img src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" align="right" height="200" width="300">
 - Name: Mico Efraim D. Escosura
 - Nickname: Mico
 - Age: 20 Years Old
@@ -23,7 +25,7 @@
 
 ## ✉️ Contact Information
 If you have any inquiries, feel free to send me an e-mail.
-- E-Mail: efraimmicoescosura@gmail.com
+- 📧 E-Mail: efraimmicoescosura@gmail.com
 
 ## 📚 Education
 - College (Present)
@@ -43,7 +45,7 @@ If you have any inquiries, feel free to send me an e-mail.
 - Learning New Knowledge (especially in Medicine and Technology)
 
 ## 📃 Git Commands Cheat Sheet
-- git init
+- ***git init***
     - Description: Initializes an existing directory as a Git repository
     - When to use: When starting a new project or wanting to track files in an existing directory.
     - Common Usages and Options
@@ -54,7 +56,7 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20init.png" alt="git init example">
 </p>
 
-- git clone [url]
+- ***git clone [url]***
     - Description: Retrieves an entire repository from a hosted location via URL
     - When to use: To acquire a project from a remote source like GitHub or to make a personal copy of a remote repository.
     - Common Usages and Options
@@ -65,7 +67,7 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20clone.png" alt="git clone example">
 </p>
 
-- git status
+- ***git status***
     - Description: Shows modified files in working directory, staged for your next commit.
     - When to use: To check which files have been modified, added, or deleted, and to see which files are ready to be committed.
     - Common Usages and Options
@@ -76,7 +78,7 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20status.png" alt="git status example">
 </p>
 
-- git add [file]
+- ***git add [file]***
     - Description: Adds a file as it looks now to your next commit (stage)
     - When to use: To selectively stage specific changes for committing.
     - Common Usages and Options
@@ -87,7 +89,7 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20add.png" alt="git add example">
 </p>
 
-- git commit -m "[descriptive message]"
+- ***git commit -m "[descriptive message]"***
     - Description: Commits your staged content as a new commit snapshot.
     - When to use: To permanently save a set of changes with a descriptive message along a timeline of a Git projects history.
     - Common Usages and Options:
@@ -100,7 +102,7 @@ If you have any inquiries, feel free to send me an e-mail.
 
 <h6> Added by Phaula Briol (mapa-briol23) </h6>
 
-- git log
+- ***git log***
     - Description: Shows the commit logs.
     - When to use: To view the changes and commit history.
     - Common Usages and Options:
@@ -111,7 +113,7 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="git log.png" alt="git log example">
 </p>
 
-- git checkout [< branch >]
+- ***git checkout [< branch >]***
     - Description: Change branches or recover working tree files.
     - When to use: To modify the working tree's files according to the version found in the selected tree or the index of the tree. .
     - Common Usages and Options:
