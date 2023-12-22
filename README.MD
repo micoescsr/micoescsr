@@ -16,6 +16,7 @@
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/logo-x-twitter.svg" height="40cm" align="center" alt="Follow micoescsr on Twitter/X"/>](https://twitter.com/micoescsr)
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Gmail_icon_(2020).png" height="40cm" align="center" alt="E-mail micoescsr"/>](efraimmicoescosura@gmail.com)
+
 ## 📚 Education
 - College (Present)
     - Program: Currently in my 2nd Year taking a Bachelor of Sciene in Information Technology
