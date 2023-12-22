@@ -2,7 +2,7 @@
     <img height="500" width="1000" src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
 </p>
 
-<h1 align="center"> Mico Efraim </h1>
+<h1 align="center"> M I C O E F R A I M </h1>
 <h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." <br />- Amy March, Little Women (2019) </h3>
 
 ## 👀 About Me
@@ -53,12 +53,15 @@ If you have any inquiries, feel free to send me an e-mail.
 <p align="center">
     <img src="https://github.com/micoescsr/micoescsr/blob/main/GIT%20INIT.png" alt="git init example">
 </p>
+
 - git clone [url]
     - Description: Retrieves an entire repository from a hosted location via URL
     - When to use: To acquire a project from a remote source like GitHub or to make a personal copy of a remote repository.
     - Common Usages and Options
         - git clone --depth <depth>: Create a shallow clone with a history truncated to the specified number of commits.
         - git clone --mirror: Set up a mirror of the source repository.
+    - Example
+
 - git status
     - Description: Shows modified files in working directory, staged for your next commit.
     - When to use: To check which files have been modified, added, or deleted, and to see which files are ready to be committed.
