@@ -3,4 +3,8 @@
 </p>
 
 <h1 align="center"> Mico Efraim D. Escosura </h1>
-<h2 align="center"> 20 years old | Philippines :philippines: </h2>
+<h2 align="center"> 20 Years Old | Philippines </h2>
+
+## About Me
+- 🎓 Currently a 2nd Year taking a Bachelor of Science in Information Technology
+- 🏫 Mapúa Malayan Colleges Laguna
