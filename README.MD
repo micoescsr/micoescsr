@@ -49,6 +49,10 @@ If you have any inquiries, feel free to send me an e-mail.
     - Common Usages and Options
         - git init <directory>: Transform a directory in the current path into a Git repository
         - git init --bare: Create a new bare repository (a repository to be used as a remote repository only, that won't contain active development)
+    - Example
+<p align="center">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/GIT%20INIT.png" alt="git init example">
+</p>
 - git clone [url]
     - Description: Retrieves an entire repository from a hosted location via URL
     - When to use: To acquire a project from a remote source like GitHub or to make a personal copy of a remote repository.
@@ -75,3 +79,5 @@ If you have any inquiries, feel free to send me an e-mail.
         - git commit -F <file> / git commit --file=<file>: Take the commit message from the given file.
 - Reference:
     - https://git-scm.com/docs
+
+
