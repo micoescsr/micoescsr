@@ -61,6 +61,9 @@ If you have any inquiries, feel free to send me an e-mail.
         - git clone --depth <depth>: Create a shallow clone with a history truncated to the specified number of commits.
         - git clone --mirror: Set up a mirror of the source repository.
     - Example
+<p align="center">
+    <img src="" alt="">
+</p>
 
 - git status
     - Description: Shows modified files in working directory, staged for your next commit.
@@ -68,19 +71,34 @@ If you have any inquiries, feel free to send me an e-mail.
     - Common Usages and Options
         - git status -s: Give output in short format.
         - git status -v: Shows more "verbose" detail including the textual changes of any uncommitted files.
+    - Example
+<p align="center">
+    <img src="" alt="">
+</p>
+
 - git add [file]
     - Description: Adds a file as it looks now to your next commit (stage)
     - When to use: To selectively stage specific changes for committing.
     - Common Usages and Options
         - git add -f / git add --force: Allow adding otherwise ignored files.
         - git add -u / git add --update: Update the index just where it already has an entry matching <pathspec>.
+    - Example
+<p align="center">
+    <img src="" alt="">
+</p>
+
 - git commit -m "[descriptive message]"
     - Description: Commits your staged content as a new commit snapshot.
     - When to use: To permanently save a set of changes with a descriptive message along a timeline of a Git projects history.
     - Common Usages and Options:
         - git commit -p / git commit --patch: Use the interactive patch selection interface to choose which changes to commit.
         - git commit -F <file> / git commit --file=<file>: Take the commit message from the given file.
+    - Example
+<p align="center">
+    <img src="" alt="">
+</p>
+
 - Reference:
     - https://git-scm.com/docs
 
-
+##
