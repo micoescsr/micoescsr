@@ -10,7 +10,6 @@
 - Nickname: Mico
 - Age: 20 Years Old
 - Location: Philippines
-- E-Mail: efraimmicoescosura@gmail.com
 
 ## Connect With Me
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
