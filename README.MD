@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="6"src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
+    <img src="https://github.com/micoescsr/micoescsr/blob/main/3b434f61e5b2021466e5f58fd718becb.gif" alt="Giyu GIF">
 </p>
 
 <h1 align="center"> Mico Efraim </h1>
@@ -9,6 +9,7 @@
 - Name: Mico Efraim D. Escosura
 - Age: 20 Years Old
 - Location: Philippines
+- Sign: Libra ♎
 
 ## 📚 Education
 - College (Present)
@@ -16,6 +17,13 @@
     - School: Mapúa Malayan Colleges Laguna
 - Senior High School:
     - Track: Science, Technology, Engineering, and Mathematics
-    - School: Holy Rosary College of Sta. Rosa, Laguna, INC.
+    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.
 - Junior High School:
-    - School: Holy Rosary College of Sta. Rosa, Laguna, INC.
+    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.
+
+## 🏓 Hobbies/Interests
+- Playing Online Games
+- Listening to Music
+- Solving Crossword Puzzles
+- Watching Movies
+- Learning New Knowledge (especially in Medicine and Technology)
