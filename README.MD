@@ -98,5 +98,29 @@ If you have any inquiries, feel free to send me an e-mail.
     <img src="https://github.com/micoescsr/micoescsr/blob/main/Examples/git%20commit.png" alt="git commit example">
 </p>
 
+<h6> Added by Phaula Briol (mapa-briol23) </h6>
+
+- git log
+    - Description: Shows the commit logs.
+    - When to use: To view the changes and commit history.
+    - Common Usages and Options:
+        - git log --follow: Continue browsing through a file's history after changes (works only for a single file).
+        - git log --source: Print the reference name that was provided on the command line to reach each commit.
+    - Example
+<p align="center">
+    <img src="git log.png" alt="git log example">
+</p>
+
+- git checkout [< branch >]
+    - Description: Change branches or recover working tree files.
+    - When to use: To modify the working tree's files according to the version found in the selected tree or the index of the tree. .
+    - Common Usages and Options:
+        - git checkout --no-track: Does not configure "upstream" even when the branch.autoSetupMerge configuration variable is set to true.
+        - git checkout -b < new-branch >: Construct a new branch called < new-branch >, launch it at < start-point >, then examine the branch that develops.
+    - Example
+<p align="center">
+    <img src="git checkout.png" alt="git checkout example">
+</p>
+
 - Reference:
     - https://git-scm.com/docs
