@@ -5,10 +5,10 @@
 <h1 align="center"> M I C O </h1>
 <h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." <br />- Amy March, Little Women (2019) </h3>
 
+## Welcome 🔥
+Hi! Welcome to my repository. As of now, I am currently working in establishing my skills in web development. I hope you can join me in hoaning my skills and learn new discoveries in the field of web development! 
+
 ## 👀 About Me
-
-<img src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" align="right" height="200" width="300">
-
 - Name: Mico Efraim D. Escosura
 - Nickname: Mico
 - Age: 20 Years Old
