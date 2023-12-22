@@ -39,7 +39,7 @@ If you have any inquiries, feel free to send me an e-mail.
 ## 📚 Education
 📘 College (Present)  
 
-    - Program: Currently in my 2nd Year taking a Bachelor of Sciene in Information Technology  
+    - Program: Currently in my 2nd Year taking a Bachelor of Science in Information Technology  
 
     - School: Mapúa Malayan Colleges Laguna  
 
