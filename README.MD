@@ -65,6 +65,10 @@ If you have any inquiries, feel free to send me an e-mail.
 
 📚 Learning New Knowledge (especially in the field of Medicine and Technology)  
 
+## 🖼️ Gallery
+
+<img align="left" height="300" width="300" src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" alt="micoescsr pic 1">
+
 
 ## 📃 Git Commands Cheat Sheet
 - ***git init***
