@@ -9,11 +9,16 @@
 Hi! I am Mico Efraim D. Escosura, or you can calle me **Mico 😄**. My closest friends calls me ***micoconutt 🥥*** Welcome to my repository! As of now, I am currently working in establishing my skills in web development. I hope you can join me in hoaning my skills and learn new discoveries in the field of web development! 
 
 ## 👀 About Me
-- 🥥 Name: Mico Efraim D. Escosura
-- 🙋🏻‍♂️ Nickname: Mico
-- 🔢 Age: 20 Years Old
-- 📍 Location: Philippines
-- 👨🏻‍🎓 Occupation: Student
+🥥 Name: Mico Efraim D. Escosura  
+
+🙋🏻‍♂️ Nickname: Mico  
+
+🔢 Age: 20 Years Old  
+
+📍 Location: Philippines  
+
+👨🏻‍🎓 Occupation: Student  
+
 
 ## 🌐 Used and Known Languages
 ✨ C#  
@@ -32,21 +37,34 @@ If you have any inquiries, feel free to send me an e-mail.
 - 📧 E-Mail: efraimmicoescosura@gmail.com
 
 ## 📚 Education
-- College (Present)
-    - Program: Currently in my 2nd Year taking a Bachelor of Sciene in Information Technology
-    - School: Mapúa Malayan Colleges Laguna
-- Senior High School:
-    - Track: Science, Technology, Engineering, and Mathematics
-    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.
-- Junior High School:
-    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.
+📘 College (Present)  
+
+    - Program: Currently in my 2nd Year taking a Bachelor of Sciene in Information Technology  
+
+    - School: Mapúa Malayan Colleges Laguna  
+
+📗 Senior High School:  
+
+    - Track: Science, Technology, Engineering, and Mathematics  
+
+    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.  
+
+📙 Junior High School:  
+
+    - School: Holy Rosary College of Sta. Rosa, Laguna, Inc.  
+
 
 ## 🏓 Hobbies/Interests
-- Playing Online Games 🎮
-- Listening to Music 🎧
-- Solving Crossword Puzzles 🧩
-- Watching Movies 🎬
-- Learning New Knowledge (especially in the field of Medicine and Technology) 📚
+🎮 Playing Online Games  
+
+🎧 Listening to Music  
+
+🧩 Solving Crossword Puzzles  
+
+🎬 Watching Movies  
+
+📚 Learning New Knowledge (especially in the field of Medicine and Technology)  
+
 
 ## 📃 Git Commands Cheat Sheet
 - ***git init***
