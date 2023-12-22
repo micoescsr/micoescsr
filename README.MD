@@ -11,7 +11,11 @@
 - Age: 20 Years Old
 - Location: Philippines
 - Occupation: Student
-- Status: Single
+
+## 🌐 Used and Known Languages
+- C#
+- C++
+- Python
 
 ## 📱 Let's Be Moots
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
@@ -20,11 +24,6 @@
 ## ✉️ Contact Information
 If you have any inquiries, feel free to send me an e-mail.
 - E-Mail: efraimmicoescosura@gmail.com
-
-## 🌐 Used and Known Languages
-- C#
-- C++
-- Python
 
 ## 📚 Education
 - College (Present)
@@ -43,9 +42,9 @@ If you have any inquiries, feel free to send me an e-mail.
 - Watching Movies
 - Learning New Knowledge (especially in Medicine and Technology)
 
-## Git Commands Cheat Sheet
+## 📃 Git Commands Cheat Sheet
 - git init
-    - Description: nitializes an existing directory as a Git repository
+    - Description: Initializes an existing directory as a Git repository
     - When to use: When starting a new project or wanting to track files in an existing directory.
     - Common Usages and Options
         - git init <directory>: Transform a directory in the current path into a Git repository
@@ -53,5 +52,26 @@ If you have any inquiries, feel free to send me an e-mail.
 - git clone [url]
     - Description: Retrieves an entire repository from a hosted location via URL
     - When to use: To acquire a project from a remote source like GitHub or to make a personal copy of a remote repository.
+    - Common Usages and Options
+        - git clone --depth <depth>: Create a shallow clone with a history truncated to the specified number of commits.
+        - git clone --mirror: Set up a mirror of the source repository.
+- git status
+    - Description: Shows modified files in working directory, staged for your next commit.
+    - When to use: To check which files have been modified, added, or deleted, and to see which files are ready to be committed.
+    - Common Usages and Options
+        - git status -s: Give output in short format.
+        - git status -v: Shows more "verbose" detail including the textual changes of any uncommitted files.
+- git add [file]
+    - Description: Adds a file as it looks now to your next commit (stage)
+    - When to use: To selectively stage specific changes for committing.
+    - Common Usages and Options
+        - git add -f / git add --force: Allow adding otherwise ignored files.
+        - git add -u / git add --update: Update the index just where it already has an entry matching <pathspec>.
+- git commit -m "[descriptive message]"
+    - Description: Commits your staged content as a new commit snapshot.
+    - When to use: To permanently save a set of changes with a descriptive message along a timeline of a Git projects history.
     - Common Usages and Options:
-        - 
+        - git commit -p / git commit --patch: Use the interactive patch selection interface to choose which changes to commit.
+        - git commit -F <file> / git commit --file=<file>: Take the commit message from the given file.
+- Reference:
+    - https://git-scm.com/docs
