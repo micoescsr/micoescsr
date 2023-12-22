@@ -10,10 +10,17 @@
 - Nickname: Mico
 - Age: 20 Years Old
 - Location: Philippines
+- Occupation: Student
+- Status: Single
+- Pronouns: He/Him/His
 
-## ✉️ Connect With Me
+## 📱 Let's Be Moots
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/logo-x-twitter.svg" height="40cm" align="center" alt="Follow micoescsr on Twitter/X"/>](https://twitter.com/micoescsr)
+
+## ✉️ Contact Information
+If you have any inquiries, feel free to send me an e-mail.
+- E-Mail: efraimmicoescosura@gmail.com
 
 ## 🌐 Used and Known Languages
 - C#
