@@ -8,6 +8,7 @@
 ## 👀 About Me
 
 <img src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" align="right" height="200" width="300">
+
 - Name: Mico Efraim D. Escosura
 - Nickname: Mico
 - Age: 20 Years Old
