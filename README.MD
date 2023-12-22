@@ -67,9 +67,9 @@ If you have any inquiries, feel free to send me an e-mail.
 
 ## 🖼️ Gallery
 
-<img align="left" height="300" width="300" src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" alt="micoescsr pic 1">
+<img align="left" height="300" width="300" src="https://github.com/micoescsr/micoescsr/blob/main/IMG_5230.jpeg" alt="micoescsr pic 1"> <br>
 
-<br>
+<hr>
 
 ## 📃 Git Commands Cheat Sheet
 - ***git init***
