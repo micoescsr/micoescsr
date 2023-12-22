@@ -65,6 +65,19 @@ If you have any inquiries, feel free to send me an e-mail.
 
 📚 Learning New Knowledge (especially in the field of Medicine and Technology)  
 
+## 🎤 Artists that I listen to
+💫 SZA  
+
+💫 grentperez  
+
+💫 Laufey  
+
+💫 Denise Julia  
+
+💫 PREP  
+
+💫 wave to earth  
+
 ## 🖼️ Gallery
 | ⭐ CCIS IT General Assembly ⭐ | Selfie 🤳🏻
 |---|:-:|
