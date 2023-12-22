@@ -7,9 +7,14 @@
 
 ## 👀 About Me
 - Name: Mico Efraim D. Escosura
+- Nickname: Mico
 - Age: 20 Years Old
 - Location: Philippines
-- Sign: Libra ♎
+- E-Mail: efraimmicoescosura@gmail.com
+
+## Connect With Me
+[<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
+[<img src="https://github.com/micoescsr/micoescsr/blob/main/logo-x-twitter.svg" height="40cm" align="center" alt="Follow micoescsr on Twitter/X"/>](https://twitter.com/micoescsr)
 
 ## 📚 Education
 - College (Present)
