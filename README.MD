@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center"> Mico Efraim </h1>
-<h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." - Amy March, Little Women (2019) </h3>
+<h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." 
+    - Amy March, Little Women (2019) </h3>
 
 ## About Me
 - Name: Mico Efraim D. Escosura
