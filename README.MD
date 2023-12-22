@@ -11,13 +11,15 @@
 - Age: 20 Years Old
 - Location: Philippines
 
-## 🌐 Connect With Me
+## ✉️ Connect With Me
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Instagram-Logo.wine.svg" height="40cm" align="center" alt="Follow micoescsr on Instagram"/>](https://www.instagram.com/micoescsr/)
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/logo-x-twitter.svg" height="40cm" align="center" alt="Follow micoescsr on Twitter/X"/>](https://twitter.com/micoescsr)
 [<img src="https://github.com/micoescsr/micoescsr/blob/main/Gmail_icon_(2020).png" height="40cm" align="center" alt="E-mail micoescsr"/>](efraimmicoescosura@gmail.com)
 
-## Used and Known Languages
-
+## 🌐 Used and Known Languages
+<img src="https://github.com/micoescsr/micoescsr/blob/main/c.svg" height="40cm" align="center" alt="C#">
+<img src="https://github.com/micoescsr/micoescsr/blob/main/C%2B%2B-Logo.wine.svg" height="40cm" align="center" alt="C++">
+<img src="https://github.com/micoescsr/micoescsr/blob/main/python.svg" height="40cm" align="center" alt="Python">
 
 ## 📚 Education
 - College (Present)
