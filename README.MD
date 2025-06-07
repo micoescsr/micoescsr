@@ -78,11 +78,6 @@ If you have any inquiries, feel free to send me an e-mail.
 
 💫 wave to earth  
 
-## 🖼️ Gallery
-| ⭐ CCIS IT General Assembly ⭐ | Selfie 🤳🏻
-|---|:-:|
-| ![Image of photo1](https://github.com/micoescsr/micoescsr/blob/main/Pictures/IMG_5230.jpeg) | ![Image of photo2](https://github.com/micoescsr/micoescsr/blob/main/Pictures/IMG_6923.jpeg) |
-
 ## 📃 Git Commands Cheat Sheet
 - ***git init***
     - Description: Initializes an existing directory as a Git repository
