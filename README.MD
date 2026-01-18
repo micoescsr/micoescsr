@@ -13,7 +13,7 @@ Hi! I am Mico Efraim D. Escosura, or you can call me **Mico 😄**. My closest f
 
 🙋🏻‍♂️ Nickname: Mico  
 
-🔢 Age: 20 Years Old  
+🔢 Age: 22 Years Old  
 
 📍 Location: Philippines  
 
@@ -34,12 +34,12 @@ Hi! I am Mico Efraim D. Escosura, or you can call me **Mico 😄**. My closest f
 
 ## ✉️ Contact Information
 If you have any inquiries, feel free to send me an e-mail.
-- 📧 E-Mail: efraimmicoescosura@gmail.com
+- 📧 E-Mail: me.escosura@gmail.com
 
 ## 📚 Education
 📘 College (Present)  
 
-    - Program: Currently in my 2nd Year taking a Bachelor of Science in Information Technology  
+    - Program: Currently in my 4th Year, taking a Bachelor of Science in Information Technology  
 
     - School: Mapúa Malayan Colleges Laguna  
 
@@ -64,19 +64,6 @@ If you have any inquiries, feel free to send me an e-mail.
 🎬 Watching Movies  
 
 📚 Learning New Knowledge (especially in the field of Medicine and Technology)  
-
-## 🎤 Artists that I listen to
-💫 SZA  
-
-💫 grentperez  
-
-💫 Laufey  
-
-💫 Denise Julia  
-
-💫 PREP  
-
-💫 wave to earth  
 
 ## 📃 Git Commands Cheat Sheet
 - ***git init***
