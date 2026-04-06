@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center"> 🥥 M I C O 🥥 </h1>
-<h3 align="center"> "I believe we have some power who we love. It isn't something that just happens to a person." <br />- Amy March, Little Women (2019) </h3>
 
 ## 🌴 Welcome
 Hi! I am Mico Efraim D. Escosura, or you can call me **Mico 😄**. My closest friends calls me ***micoconutt 🥥*** Welcome to my repository! As of now, I am currently working in establishing my skills in web development. I hope you can join me in hoaning my skills and learn new discoveries in the field of web development! 
