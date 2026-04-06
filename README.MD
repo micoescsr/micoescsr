@@ -20,7 +20,13 @@ Hi! I am Mico Efraim D. Escosura, or you can call me **Mico 😄**. My closest f
 
 
 ## 🌐 Used and Known Languages
-✨ C#  
+✨ React 
+
+✨ Node.js
+
+✨ Express.js
+
+✨ C# 
 
 ✨ C++  
 
